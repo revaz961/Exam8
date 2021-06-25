@@ -6,4 +6,5 @@
     <string name="repeat">Repeat your passcode</string>
     <string name="invalid">Incorrect passcode</string>
     <string name="forgot">Forgot password?</string>
+    <string name="enter">Enter your passcode</string>
 </resources>

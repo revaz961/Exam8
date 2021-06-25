@@ -49,7 +49,7 @@ class SignInFragment : BaseFragment<FragmentSignInBinding, SignInViewModel>(
                             Snackbar.make(binding.root, result, Snackbar.LENGTH_LONG).show()
                             result = ""
                             result1 = ""
-                            binding.tvEnter.text = getString(R.string.)
+                            binding.tvEnter.text = getString(R.string.enter)
                             updateCircle(result)
                         }else{
                             Snackbar.make(binding.root,getString(R.string.invalid),Snackbar.LENGTH_LONG).show()
